@@ -11,7 +11,8 @@ I build real digital solutions with modern technologies.
 * MySQL
 * Flutter
 * JavaScript
-* REST APIs
+* REST APIs Integration
+* WordPress (WooCommerce / Backend)
 
 ## Current Mission
 
