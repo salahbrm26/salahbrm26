@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi I'm Salah 👋
 
-<!--
-**salahbrm26/salahbrm26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Junior Web Developer from Algeria  
+💡 Building digital startups for Africa  
+⚙️ Html | Css | Laravel | React | Java script | MySQL | APIs 
+📈 Interested in SaaS & Investment Tech
 
-Here are some ideas to get you started:
+## Current Projects
+- Travel Platform
+- Smart Clinic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Vision
+Build useful products for Africa & Arab world.
