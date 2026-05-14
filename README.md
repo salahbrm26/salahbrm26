@@ -1,6 +1,6 @@
 # Hi, I'm Salah 👋
 
-🚀 Young Web Developer from Algeria 🇩🇿
+🚀 JR Web Developer from Algeria 🇩🇿
 
 I build real digital solutions with modern technologies.
 
