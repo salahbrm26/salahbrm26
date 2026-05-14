@@ -1,13 +1,29 @@
-# Hi I'm Salah 👋
+# Hi, I'm Salah 👋
 
-🚀 Junior Web Developer from Algeria  
-💡 Building digital startups for Africa  
-⚙️ Html | Css | Laravel | React | Java script | MySQL | APIs 
-📈 Interested in SaaS & Investment Tech
+🚀 Young Web Developer from Algeria 🇩🇿
 
-## Current Projects
-- Travel Platform
-- Smart Clinic
+I build real digital solutions with modern technologies.
+
+## Tech Stack
+
+* Laravel
+* PHP
+* MySQL
+* Flutter
+* JavaScript
+* REST APIs
+
+## Current Mission
+
+Building products for Africa & Arab markets.
+
+## Featured Projects
+
+* Travel Booking Platform
+* Smart Restaurent Management
+* Freelance Marketplace DZ
+* AI Resume Builder
 
 ## Vision
-Build useful products for Africa & Arab world.
+
+Create scalable startups solving real problems.
